@@ -34,7 +34,7 @@ A high-fidelity clone of Netflix's security verification page for educational pu
 
 ```bash
 # Clone the repository
-git clone https://github.com/maximjames80-cell/NetflixPhish.git
+git clone https://github.com/yourusername/netflix-security-template.git
 cd netflix-security-template
 
 # Install dependencies
@@ -83,6 +83,14 @@ const PORT = 3000; // Change to your preferred port
 6. localStorage stores verification status
 7. Return visits show verification modal immediately
 8. User is redirected to real Netflix after closing modal
+
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/screenshot1.png)
+
+### Verification Modal
+![Verification Modal](screenshots/screenshot2.png)
 
 ## Security Research Applications
 
